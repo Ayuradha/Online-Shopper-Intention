@@ -13,8 +13,10 @@ I have tried to perform EDA through various visualizations and feature selection
 ![](Pictures/Smote.png)
 ### Feature Selection
 * Chi-square Test
+
 The Chi-square test is used in statistics to test the independence of two events.
 * Multicollinearity Test 
+
 The VIF is widely used as a measure of the degree of multi-collinearity of the independent variable with the other independent variables in a model.
 
 ## Model Building   
@@ -22,5 +24,5 @@ The VIF is widely used as a measure of the degree of multi-collinearity of the i
 The methods used to predict online shopper’s purchasing intention in this project are binary logistic regression, decision tree, and random forest with evaluation methods are 5 and 10-fold cross validation. I tried three different models and evaluated them using Accuracy and AUC.
 
 ## Model performance
-![](Pictures/result.png)
+![](Pictures/result1.png)
 ![](Pictures/rf.png)
